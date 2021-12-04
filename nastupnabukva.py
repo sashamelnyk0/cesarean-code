@@ -1,4 +1,4 @@
-alfavit_zifri = 'abcdefghijklmnopqrstuvwxyz'
+alfavit_zifri = 'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz'
 zbilshenya = int(input('На скільки збільшити: '))
 message = input("Повідомлення: ")
 widpovid = ''
